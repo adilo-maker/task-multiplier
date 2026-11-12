@@ -7,6 +7,8 @@
 
 **Версия:** 1.0.0 · **Лицензия:** MIT · **Платформа:** Windows · **Автор:** by:adilo321
 
+**Orca Cloud:** [Task Multiplier 1.0.0](https://cloud.orcaslicer.com/p/5e1413482d47)
+
 Плагин написан при помощи ИИ.
 
 ---
